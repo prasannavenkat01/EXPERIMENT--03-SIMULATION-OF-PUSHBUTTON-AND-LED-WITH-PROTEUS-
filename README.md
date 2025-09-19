@@ -181,13 +181,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-![Alt text](<Screenshot 2025-09-04 084537.png>)
+!(<Screenshot 2025-09-04 084537.png>)
 
-![Alt text](<Screenshot 2025-09-04 084545.png>)
+!(<Screenshot 2025-09-04 084545.png>)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
-![Alt text](<Screenshot 2025-09-04 091515.png>)
+!(<Screenshot 2025-09-04 091515.png>)
  
  
 ## Result :
